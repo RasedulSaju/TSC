@@ -1,0 +1,2 @@
+
+abcde	[a, b, c, d, e, f]	abcde	mTH	abc	[a, b, c, d, e, f]
